@@ -1,6 +1,6 @@
 # Research-Reports
 Equity Research Reports:  Facebook, AON vs. Marsh McLennan, American Express 
-* Strategic Analyis of companies
+* Strategic Analysis of companies
 * Growth potential
 * Risks
 * Assessment of Governance
